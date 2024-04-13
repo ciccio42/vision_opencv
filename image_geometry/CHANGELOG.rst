@@ -2,8 +2,8 @@
 Changelog for package image_geometry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.5.0 (2024-04-13)
+------------------
 * Use c++17 (`#515 <https://github.com/ros-perception/vision_opencv/issues/515>`_)
 * Remove unused travis file
 * Contributors: Kenji Brameld, andrea

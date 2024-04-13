@@ -2,8 +2,8 @@
 Changelog for package cv_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.5.0 (2024-04-13)
+------------------
 * Fixed converstion for 32FC1 (`#514 <https://github.com/ros-perception/vision_opencv/issues/514>`_)
 * Allow users to override encoding string in ROSCvMatContainer (`#505 <https://github.com/ros-perception/vision_opencv/issues/505>`_)
 * Ensure dynamic scaling works when given matrix with inf, -inf and nan values. (`#498 <https://github.com/ros-perception/vision_opencv/issues/498>`_)
